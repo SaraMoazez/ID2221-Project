@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/sara/Desktop/ID2221-Project/Test.scala:7:21: not found: value SparkSession[0m
+[0m[[0m[31merror[0m] [0m[0m        val spark = SparkSession.builder[0m
+[0m[[0m[31merror[0m] [0m[0m                    ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
